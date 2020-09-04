@@ -10,3 +10,4 @@ let b='12333'
 function fun(){
   return '6666'
 }
+console.log(fun())
