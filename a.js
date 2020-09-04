@@ -5,3 +5,5 @@ let brr=arr.map(v=>{
   return v+1
 })
 console.log(brr)
+brr.reverse()
+let b='12333'
