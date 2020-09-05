@@ -12,3 +12,5 @@ function fun(){
   return '111'
 }
 console.log(fun())
+let ai='cj'
+console.log('dhj'+ai)
