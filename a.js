@@ -8,3 +8,6 @@ console.log(brr)
 brr.reverse()
 let b='12333'
 console.log(b)
+function fun(){
+  return '111'
+}
