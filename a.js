@@ -11,3 +11,4 @@ console.log(b)
 function fun(){
   return '111'
 }
+console.log(fun())
