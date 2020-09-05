@@ -7,3 +7,4 @@ let brr=arr.map(v=>{
 console.log(brr)
 brr.reverse()
 let b='12333'
+console.log(b)
